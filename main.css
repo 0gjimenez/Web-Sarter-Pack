@@ -1,0 +1,21 @@
+/*Will able to everything as a default*/
+body{
+    
+
+}
+
+/*IDs in css begin with a hashtag*/
+#idname{
+    height: 400;
+    width: 0.50;
+    position: relative;
+    background - color: "grey";
+
+    
+}
+
+
+/*CLASSES in css begin with a dot*/
+.classname{
+
+}
