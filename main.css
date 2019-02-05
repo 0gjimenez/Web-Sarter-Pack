@@ -5,12 +5,36 @@ body{
 }
 
 /*IDs in css begin with a hashtag*/
-#idname{
+#iheader{
     height: 400;
-    width: 0.50;
-    position: relative;
-    background - color: "grey";
+    width: 200;
+    background-color:grey;
+}
+#ifooter{
+    height: 400;
+    width: 200;
+    background-color: yellow;
+}
+#isec1{
+    height: 400;
+    width: 200;
+    background-color: pink;
+}
+#isec2{
+    height: 400;
+    width: 200;
+    background-color: white;
+}
+#isec3{
+    height: 400;
+    width: 200;
+    background-color: lightseagreen;
 
+}
+    
+#header{
+    height: 100;
+    width: 0.50;
     
 }
 
