@@ -40,33 +40,52 @@ body{
 
 
 /*CLASSES in css begin with a dot*/
-.header1{
+.header{
     height: 100px;
     width: 100%; 
-    background: white;
+    background: greenyellow;
  }
- .section1{
+ .section1L{
      height: 200px;
      width: 50%;
-     background-color: grey
-     float left
+     background-color: darkkhaki;
+     float: left;
  }
- .section1{
+ .section1R{
     height: 200px;
-    width: 20%;
+    width: 50%;
     background-color: aqua;
+    float: left;
  }
- .section2{
+ .section2L{
     height: 200px;
-    width: 75%;
-    background-color: grey;
+    width: 25%;
+    background-color: darkkhaki;
+    float: left;
  }
- .section2{
+ .section2R{
      height: 200px;
-     width: 25%;
+     width: 75%;
      background-color: aqua;
+     float: right;
  }
- .sec
+ .section3L{
+     height: 200px;
+     width: 33.33%;
+     background-color: darkkhaki;
+     float: left;
+ }
+ .section3R{
+     height: 200px;
+     width: 66.66%;
+     background-color: aqua;
+     float: right;
+ }
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: grey;
+}
  
 
 
