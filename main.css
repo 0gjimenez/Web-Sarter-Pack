@@ -5,6 +5,7 @@ body{
 }
 
 /*IDs in css begin with a hashtag*/
+/*Challenge1*/
 #iheader{
     height: 200px;
     width: 300px;
@@ -40,6 +41,7 @@ body{
 
 
 /*CLASSES in css begin with a dot*/
+/*challeneg2*/
 .header{
     height: 100px;
     width: 100%; 
@@ -87,5 +89,34 @@ body{
     background-color: grey;
 }
  
+
+
+
+/*challenge3*/
+.box{
+        width: 400px;
+        padding: 10px;
+        border: 10pc;
+        border-radius: 4px;
+        float: center;
+        background-color: gold;
+    }
+    f1{
+        margin: 0;
+        text-align: center;
+    }
+    f2{
+        width: 400px;
+    }
+    f3{
+        background-color: hotpink
+    }
+        
+.title{
+    
+}
+
+
+
 
 
