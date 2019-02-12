@@ -109,7 +109,7 @@ body{
         width: 400px;
     }
     f3{
-        background-color: hotpink
+        background-color: hotpink;
     }
         
 .title{
@@ -120,3 +120,14 @@ body{
 
 
 
+.stuff{
+    margin: 0;
+    width: 400px;
+}
+.thing{
+    margin: 0;
+    width: 400px;
+}
+.heading{
+    
+}
