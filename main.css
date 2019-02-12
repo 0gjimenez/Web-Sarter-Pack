@@ -121,13 +121,16 @@ body{
 
 
 .stuff{
-    margin: 0;
+    margin: 10px;
     width: 400px;
+    border: 8px solid black;
+    border-radius: 4px;
+    padding: 8px;
 }
-.thing{
-    margin: 0;
-    width: 400px;
-}
+
 .heading{
-    
+    margin: 0;
+}
+.articleimg{
+    width: 400px;
 }
